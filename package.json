@@ -1,0 +1,25 @@
+{
+  "name": "tez-css",
+  "version": "1.0.0",
+  "description": "Include only relevant CSS to your page for faster performance.",
+  "main": "./index.js",
+  "homepage": "https://github.com/veedhee/tez-css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veedhee/tez-css.git"
+  },
+  "bin": {
+    "tez-css": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "json",
+    "web performance"
+  ],
+  "author": "Vidhi Bagadia <vidbagadia@gmail.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
